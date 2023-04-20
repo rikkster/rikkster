@@ -42,3 +42,5 @@ I like to create interesting projects. I am a full stack developer. Behind him a
 ![Rikkster](https://sun9-80.userapi.com/impg/00WB-9bSCDU_Yxk7po6ZbEXrYRRcXwofa0DpNA/fbjWshK5FHw.jpg?size=933x777&quality=96&sign=11734e4e5b194f8e21b0eff4adaeb9fc&type=album)
 
 # Обсудим проект?
+
+[Связаться со мной в Telegram](https://telegram.me/fullstackfreelancer)
