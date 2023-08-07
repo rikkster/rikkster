@@ -31,6 +31,8 @@ I like to create interesting projects. I am a full stack developer. Behind him a
 ---
 ## Контакты
 
+[Мой сайт IT-специалиста](https://fullstack-freelancer.ru)
+
 [Мой экспертный блог в Tenchat](https://tenchat.ru/fullstackfreelancer)
 
 [Связаться со мной в Telegram](https://telegram.me/fullstackfreelancer)
