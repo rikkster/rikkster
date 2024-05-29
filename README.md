@@ -2,7 +2,12 @@
 
 ## Fullstack Web Developer
 
-Hello! My name is Andrei Rikkster, and I am a fullstack web developer with 10+ years of experience. I specialize in the following technologies:
+Hello! My name is Andrei Rikkster.
+
+I am Russian and I am from Russia, but personally I have not done anything bad to Ukraine or anyone else. I kindly ask to relate to me as an individual unique person, without linking to race, nationality, region, religious affiliations, and so on.
+
+
+I am a fullstack web developer with 10+ years of experience. I specialize in the following technologies:
 
 - Node.js
 - React
